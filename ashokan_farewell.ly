@@ -15,7 +15,7 @@
     d4.( cis8) b8[( a8)] | 
     fis2 e8([ fis8)] |
     g4.( fis8) e([ d) ]|
-    b4 d4. s8 |
+    b4-- d4. s8 |
     a4( <a d> <d fis> ) |
     <fis a>( <fis d'> <cis' e> ) |
     <d fis>4.( <e g>8) <d fis>4 |
@@ -23,7 +23,7 @@
     d4.( cis8) b[( a)] |
     fis2 e8( fis) |
     g4.( fis8) e[( d)] |
-    b4 d4. s8 |
+    b4-- d4. s8 |
     a4( <a d> <d fis>) |
     <fis a>( <fis d'> <cis' e>) |
     fis2 <cis e>4 |
@@ -45,18 +45,18 @@
     e2 <e, cis'>4 |
     <d d'>2. } \\
     {
-      e4 |
-      fis4 fis g4 |
-      d4 d cis |
-      b b b |
+      e4-- |
+      fis4-- fis-- g4-- |
+      d4-- d-- cis-- |
+      b-- b-- b-- |
       s4 b4--( \autoBeamOff b8--) \autoBeamOn b8^\upbow |
       s2. |
       s2. |
       s2. |
-      s2 e4 |
-      fis4 fis g4 |
-      d4 d cis |
-      b b b |
+      s2 e4-- |
+      fis4-- fis-- g4-- |
+      d4-- d-- cis-- |
+      b-- b-- b-- |
       s4 b4--( \autoBeamOff b8--) \autoBeamOn b8^\upbow |
       s2. | s2. |
       d'4( a) s4 |
